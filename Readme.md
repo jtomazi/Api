@@ -1,4 +1,4 @@
-Você precisará ter o NodeJS instalado na sua máquina, e, após isso, clonar este repositório:
+Você precisará ter o NodeJS instalado na sua máquina, após isso, clonar este repositório:
 
 $ git clone https://github.com/jtomazi/Api.git
 
