@@ -2,8 +2,9 @@ Você precisará ter o NodeJS instalado na sua máquina, e, após isso, clonar e
 
 $ git clone https://github.com/jtomazi/Api.git
 
-Executando a aplicação
-Para executá-la é muito simples, **acesse a pasta pelo prompt** e rode os seguintes comandos:
+**Executando a aplicação**
+
+Para executá-la é muito simples, ****acesse a pasta pelo prompt**** e rode os seguintes comandos:
 
 $ npm add express - Baixando as dependências express.
 
